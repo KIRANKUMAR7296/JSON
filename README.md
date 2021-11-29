@@ -5,7 +5,8 @@ JavaScript Object Notation
 - Commonly used for `API's` and `Configs` (Configurations)
 - `Lightweight` and easy to `Read/Write`
 - `Superset` of JavaScript
-- Easily `integrates` with almost every language.
+- Easily `integrates` with almost every `programming`, `scripting` and `query` language. 
+- We can share the data in JSON format through `API's` in less `time` and `space`
 
 ### `JSON types`
 - `Strings` : "Kirankumar", "Hi", "I"
