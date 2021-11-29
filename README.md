@@ -20,17 +20,37 @@ JavaScript Object Notation
 ```json
 User.json 
 
-{
-  "Name" : "Kirankumar",
-  "Role" : "Data Scientist",
-  "Age" : 25,
-  "Married" : false,
-  "Skills" : ["Data Science", "Business Intelligence", "Artificial Intelligence"],
-  "Comapany" : [{
-    "Name" : "TCS",
-    "Depatment" : "Analytics and Insights",
-    "Domain" : "HiTech",
-    "Branch" : "Hyderabad"
-  }]
-}
+[
+  {
+    "Name" : "Kirankumar Yadav",
+    "Role" : "Data Scientist",
+    "Age" : 25,
+    "Married" : false,
+    "Skills" : ["Data Science", "Business Intelligence", "Artificial Intelligence"],
+    "Comapany" : 
+      {
+        "Name" : "TCS",
+        "Depatment" : "Analytics and Insights",
+        "Domain" : "HiTech",
+        "Branch" : "Hyderabad"
+      }
+     
+  }
+  
+  {
+    "Name" : "Kirankumar Yadav",
+    "Role" : "System Developer Engineer",
+    "Age" : 22,
+    "Married" : false,
+    "Skills" : ["Data Analysis", "Web Design and Development", "SQL"],
+    "Comapany" : 
+      {
+        "Name" : "Bluechip Corporate Investment Centre",
+        "Depatment" : "System",
+        "Domain" : "Finance Analytics",
+        "Branch" : "Mumbai"
+      }
+     
+  }
+]
 ```
